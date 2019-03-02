@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RandomKotlinApp</string>
+    <string name="deli_ordering">Tech Picker</string>
+    <string name="desktops">Desktops</string>
+    <string name="laptops">Laptops</string>
+    <string name="tablets">Tablets</string>
+    <string name="phones">Phones</string>
+    <string name="cameras">Cameras</string>
+    <string name="accessories">Accessories</string>
+</resources>
